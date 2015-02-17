@@ -1,6 +1,6 @@
 ## Interface: 60000
 ## Title: Bosses_Killed_lfr
-## Notes: Shows you which bosses you've killed next to the raid finder and flex raid frames.
+## Notes: Shows you which bosses you've killed next to the raid finder frames.
 ## Author: Raykai
 ## Original Author: wT = link to his work: http://www.wowace.com/addons/bosseskilled/
 ## Version: 1.6
