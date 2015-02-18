@@ -4,6 +4,4 @@ A world of Warcraft addon that creates a row of buttons showing you how many bos
 link: 
 http://wow.curseforge.com/addons/bosseskilled-lfr/
 
-link: http://wow.curseforge.com/addons/bosseskilled-lfr/
->>>>>>> origin/master
 http://www.curse.com/addons/wow/bosseskilled-lfr
