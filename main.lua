@@ -146,6 +146,25 @@ function addon:UpdateButtonsAndTooltips(parentFrame)
 
 		local tooltip = {{text = button.dungeonName}} -- Set up tooltip data with the dungeon name
 		for i = index, numEncounters + index - 1 do
+
+            if id == 847 and i == 3 then
+				i = 7
+			end
+
+            if id == 846 and i == 4 then
+                i = 3
+            end
+            if id == 846 and i == 6 then
+                i = 8
+            end
+
+            if id == 848 and i == 7 then
+                i = 4
+            end
+            if id == 848 and i == 8 then
+                i = 6
+            end
+
 			local bossName, _, isKilled = GetLFGDungeonEncounterInfo(id, i)
 
 			if isKilled then
