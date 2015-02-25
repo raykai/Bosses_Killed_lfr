@@ -30,8 +30,8 @@ addon.raidData = {
     -- Blackfrock Foundry LFR
     [847] = { numEncounters = 3, startFrom =  1}, -- Slagworks
 	[846] = { numEncounters = 3, startFrom =  4}, -- The Black Forge
-	[848] = { numEncounters = 3, startFrom =  8}, -- Iron Assembly
-	[823] = { numEncounters = 1, startFrom =  9}, -- Blackhand's Crucible
+	[848] = { numEncounters = 3, startFrom =  7}, -- Iron Assembly
+	[823] = { numEncounters = 1, startFrom =  10}, -- Blackhand's Crucible
 	-- WoD Raid finder info as 6.1.0
 	-- Waiting for the info
 }
