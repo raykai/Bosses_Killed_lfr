@@ -4,13 +4,15 @@
 - Update TOC for patch 6.1
 
 2015/02/16
--v1.6 Raykai removed codes that was for FlexRaid as it is no longer needed for WOD
+- v1.6 
+- Removed codes that was for FlexRaid as it is no longer needed for WOD
 - Adding WOD new raid info as of 6.0.3
 - Opening code on github for everyone so u can help maintain this addon so it stays up to date.
 https://github.com/raykai/Bosses_Killed_lfr
 
 2015/02/15 
--v1.5 Raykai picking up addon from wT, renaming addon from bossekilled to Bosses-Killed-lfr.
+- v1.5 
+- Picking up addon from wT, renaming addon from bossekilled to Bosses-Killed-lfr.
 
 2013-12-11 
  wT  <wT>  Add the addon table to the global scope so any of the things mentioned
