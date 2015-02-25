@@ -1,3 +1,8 @@
+2015/02/25
+- v1.7.1
+- fix button scale
+- corrected raiddata
+
 2015/02/24
 - v1.7
 - Fixed boss order
