@@ -110,7 +110,7 @@ function addon:GetButtonScale(numDungeons)
 	-- Ok, I still don't understand anything about the positioning and sizing of stuff in WoW, but the target frame is about 280'ish tall and buttons 32 and who gives a shit about margins and aaargh I'm going crazy /headexplode
 	-- Magic numbers! There's really no method to the madness, these numbers just happen to look ok
 	-- Mite need min 480 still too see
-	return min(300 / (numDungeons * 32), 1)
+	return min(480 / (numDungeons * 32), 1)
 end
 
 -- Must return a fontstring
