@@ -1,3 +1,8 @@
+2015/02/24
+- v1.7
+- Fixed boss order
+- Update TOC for patch 6.1
+
 2015/02/16
 -v1.6 Raykai removed codes that was for FlexRaid as it is no longer needed for WOD
 - Adding WOD new raid info as of 6.0.3
